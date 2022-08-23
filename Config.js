@@ -22,11 +22,11 @@ global.notice = ` *Hi 🥰 I m*
 *I am a Learning.*
 *Not more..*
 *Also I am Student*
-*Follow My Facebook - https://www.facebook.com/zenoixnoize*`  // 👈 Enter Your details and Social Media Links and Anything
+*Follow My YOUTUBE - https://youtube.com/channel/UCEvqWPgNej_8x6hGZuDXZ_w*`  // 👈 Enter Your details and Social Media Links and Anything
 global.owner =  ['+212656429841'] //👈  Enter Your number
 global.premium =  ['+212656429841'] //👈  Enter Your number
 global.ownernomer = '+212656429841' //👈  Enter Your number
-global.ownername = 'ZENOI' //👈 Enter Your name
+global.ownername = '@MRRAKCHI OFC ••🍃 🖤' //👈 Enter Your name
 global.botname = '@MRRAKCHI OFC ••🍃 🖤 ＢＯＴ' //👈 Enter Your Bot name
 global.footer = '© 𝖯𝗈𝗐𝖾𝗋𝖾𝖽 𝖡𝗒 @MRRAKCHI OFC ••🍃 🖤 𝖡𝗈𝗍' //👈 Enter Your Name
 global.ig = 'https://github.com/Zenoixnoize/GARFIELD-WHATSAPP-BOT-v8' // 👈 You Can change this your choice
@@ -37,7 +37,7 @@ global.myweb = 'https://youtube.com/channel/UCEvqWPgNej_8x6hGZuDXZ_w'// 👈 Ent
 global.welcome = '*Welcome To The Group 🦋*' // 👈 You Can change this your choice
 global.bye = '*Bye bye Mother fucker 🐼*' // 👈 You Can change this your choice
 global.packname = 'GARFIELD-BOTv8'  // 👈 You Can change this your choice 
-global.author = 'NOIZE DEVELOPMENT' // 👈 You Can change this your choice 
+global.author = '@MRRAKCHI OFC ••🍃 🖤 DEVELOPMENT' // 👈 You Can change this your choice 
 global.sessionName = 'session' // 👈 You Can change this your choice
 global.prefa = ['','!','.','🛰️','⚓','🍎'] // 👈 You Can change this your choice
 //Go to https://imgbb.com/, upload a photo of your choice and put its link here
